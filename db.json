@@ -9,12 +9,5 @@
       "gender": "M",
       "relationship": "Hermano"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
   ]
 }
