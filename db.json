@@ -1,13 +1,40 @@
 {
-  "posts": [
+  "family": [
     {
-      "id": 1,
-      "name": "Pedro",
-      "surname": "Hernandez",
-      "type_document": "DNI",
-      "document": "11111111",
-      "gender": "M",
-      "relationship": "Hermano"
-    }
+    "id": 1,
+    "name": "Pedro",
+    "surname": "Hernandez",
+    "type_document": "DNI",
+    "document": "11111111",
+    "gender": "M",
+    "relationship": "Hermano"
+  },
+  {
+    "id": 2,
+    "name": "Alejandra",
+    "surname": "Stuck",
+    "type_document": "DNI",
+    "document": "222222",
+    "gender": "F",
+    "relationship": "Hermana"
+  },
+  {
+    "id": 3,
+    "name": "Javier",
+    "surname": "Mendoza",
+    "type_document": "DNI",
+    "document": "33333333",
+    "gender": "M",
+    "relationship": "Papa"
+  },
+  {
+    "id": 4,
+    "name": "Maria",
+    "surname": "Perez",
+    "type_document": "DNI",
+    "document": "4444444",
+    "gender": "M",
+    "relationship": "Madre"
+  }
   ]
 }
